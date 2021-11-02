@@ -1,0 +1,19 @@
+.link {
+  color: rgb(98, 98, 255);
+  cursor: pointer;
+}
+
+.card img {
+  max-width: 100%;
+}
+
+.bi {
+  color: red;
+}
+.bi:hover {
+  cursor: pointer;
+}
+
+.card-title {
+  margin-top: 1.5rem;
+}

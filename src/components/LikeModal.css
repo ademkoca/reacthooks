@@ -1,0 +1,26 @@
+.modal {
+  z-index: 99999;
+}
+
+.likesRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profileLikesImg {
+  max-width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: 1;
+}
+
+.profileLikes {
+  flex: 2;
+  margin-left: 10px;
+}
+
+.modal-body {
+  overflow-y: scroll !important;
+}

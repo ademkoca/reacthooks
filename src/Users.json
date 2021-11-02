@@ -1,0 +1,42 @@
+[
+  {
+    "userId": "1",
+    "username": "ademkoca",
+    "avatar": "/img/users/ademkoca.jpg"
+  },
+  {
+    "userId": "2",
+    "username": "regiina.falange",
+    "avatar": "/img/users/regiinafalange.jpg"
+  },
+  {
+    "userId": "3",
+    "username": "reddington",
+    "avatar": "/img/users/reddington.jpg"
+  },
+  {
+    "userId": "4",
+    "username": "dembe",
+    "avatar": "/img/users/dembe.jpg"
+  },
+  {
+    "userId": "5",
+    "username": "elizabeth",
+    "avatar": "/img/users/elizabeth.jpg"
+  },
+  {
+    "userId": "6",
+    "username": "ressler",
+    "avatar": "/img/users/ressler.jpg"
+  },
+  {
+    "userId": "7",
+    "username": "aram",
+    "avatar": "/img/users/aram.jpg"
+  },
+  {
+    "userId": "8",
+    "username": "karen",
+    "avatar": "/img/users/karen.jpg"
+  }
+]
