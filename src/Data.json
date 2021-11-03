@@ -3,14 +3,14 @@
     "id": "1",
     "title": "Look at my gramahpone",
     "body": "ademkoca",
-    "image": "/img/posts/1.jpg",
+    "image": "img/posts/1.jpg",
     "totalLikes": ["regiina.falange", "dembe", "reddington"]
   },
   {
     "id": "2",
     "title": "Here comes the Santa maca",
     "body": "regiina.falange",
-    "image": "/img/posts/2.jpg",
+    "image": "img/posts/2.jpg",
     "totalLikes": [
       "ademkoca",
       "aram",
